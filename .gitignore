@@ -1,2 +1,6 @@
 venv
 .idea/
+db.sqlite3
+DjangoRestFWProj/__pycache__/
+testapp/__pycache__/
+testapp/migrations
