@@ -1,5 +1,5 @@
 # DjangoRestFW
-Django RestApi Development Project.
+Django RestApi Development Project using DjangoRestFramework's serializers.
 
 This is a Django Practice Project for creating WebApi's without using the Django Rest FrameWork.
 Requirements :
